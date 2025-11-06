@@ -21,4 +21,22 @@ def add_movie():
     print("Film ajouté avec succès !!!")
 
 add_movie()
- 
+
+# Update le fichier CSV: 
+edit_data = []
+with open(CSV_FILE, 'r', encoding='utf-8') as csvfile:
+    lecteur = csv.DictReader(csvfile)
+    for ligne in lecteur:
+        if ligne['titre'] == 'Film Ancien':
+            ligne['titre'] = 'Film Corrigé'
+        edit_data.append(ligne)
+
+with open(CSV_FILE, mode='w', encoding='utf-8', newline='') as fichier:
+    if edit_data:
+        ecrivain = csv.DictWriter(fichier, fieldnames=edit_data[0].keys())
+        ecrivain.writeheader()
+        ecrivain.writerows(edit_data)
+
+print("Fichier CSV mis à jour.")
+
+#
