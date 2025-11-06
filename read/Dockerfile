@@ -4,4 +4,4 @@ WORKDIR /TP_DOCKER
 
 COPY . .
 
-CMD ["tail", "-f", "/dev/null"]
+CMD ["tail", "-f", "/dev/null"] 
