@@ -1,37 +1,32 @@
 id,titre,annee_production,genre,age_limite
-1,The Shawshank Redemption,1994,Drame,12
-2,The Godfather,1972,Crime,16
-3,The Dark Knight,2008,Action,12
-4,Pulp Fiction,1994,Crime,18
-5,Forrest Gump,1994,Drame,6
-6,Inception,2010,Action,12
-7,The Matrix,1999,Action,16
-8,Goodfellas,1990,Crime,18
-9,The Lord of the Rings: The Return of the King,2003,Aventure,12
-10,Fight Club,1999,Drame,18
-11,Star Wars: Episode IV - A New Hope,1977,Aventure,6
-12,The Lord of the Rings: The Fellowship of the Ring,2001,Aventure,12
-13,Interstellar,2014,Aventure,12
-14,Spirited Away,2001,Animation,6
-15,Parasite,2019,Comédie,16
-16,The Lion King,1994,Animation,3
-17,Gladiator,2000,Action,12
-18,Titanic,1997,Drame,12
-19,The Avengers,2012,Action,12
-20,Saving Private Ryan,1998,Drame,16
-21,Jurassic Park,1993,Aventure,12
-22,Terminator 2: Judgment Day,1991,Action,12
-23,Schindler's List,1993,Biographie,12
-24,The Silence of the Lambs,1991,Crime,18
-25,E.T. the Extra-Terrestrial,1982,Famille,3
-26,Casablanca,1942,Drame,6
-27,Avatar,2009,Action,12
-28,Raiders of the Lost Ark,1981,Action,12
-29,La La Land,2016,Comédie,6
-30,Back to the Future,1985,Aventure,6
-31,hunter,1999,anime,12
-31,One piece,1999,Anime,12
-31,Gintama,2003,Anime,12
-31,Gintama,2001,Anime,12
-31,Gintama,2002,Anime,10
-31,Naruto,1999,Anime,12
+32,The Shawshank Redemption,1994,Drame,12
+33,The Godfather,1972,Crime,16
+34,The Dark Knight,2008,Action,12
+35,Pulp Fiction,1994,Crime,18
+36,Forrest Gump,1994,Drame,6
+37,Inception,2010,Action,12
+38,The Matrix,1999,Action,16
+39,Goodfellas,1990,Crime,18
+40,The Lord of the Rings: The Return of the King,2003,Aventure,12
+41,Fight Club,1999,Drame,18
+42,Star Wars: Episode IV - A New Hope,1977,Aventure,6
+43,The Lord of the Rings: The Fellowship of the Ring,2001,Aventure,12
+44,Interstellar,2014,Aventure,12
+45,Spirited Away,2001,Animation,6
+46,Parasite,2019,Comédie,16
+47,The Lion King,1994,Animation,3
+48,Gladiator,2000,Action,12
+49,Titanic,1997,Drame,12
+50,The Avengers,2012,Action,12
+51,Saving Private Ryan,1998,Drame,16
+52,Jurassic Park,1993,Aventure,12
+53,Terminator 2: Judgment Day,1991,Action,12
+54,Schindler's List,1993,Biographie,12
+55,The Silence of the Lambs,1991,Crime,18
+56,E.T. the Extra-Terrestrial,1982,Famille,3
+57,Casablanca,1942,Drame,6
+58,Avatar,2009,Action,12
+59,Raiders of the Lost Ark,1981,Action,12
+60,La La Land,2016,Comédie,6
+61,Back to the Future,1985,Aventure,6
+62,Gintama,2003,Anime,10
